@@ -1,6 +1,6 @@
 Hello folks, 
 
-Currently founder of a marketing automation company and student in different discipline. Forgive my ignorance in the field, I'm the coding equivalent of the premature birth.
+Currently founder of a marketing automation company and student in different discipline. Forgive my ignorance in the field, I'm the coding equivalent of the premature birth. If you do feel some way about an incorrect use of a word and want to help me improve, shoot me a message. Otherwise, stay mad techie.
 
 Learning computational theory (no real syntax currently, ironic username) because...
 - Computers are a hugely fascinating, somewhat limitless endevour which cannot be found in other technical fields
